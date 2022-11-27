@@ -1,4 +1,4 @@
-from scripts.skillfactory.homework_19_2_3.app.calculator import Calculator
+from app.calculator import Calculator
 
 
 class TestCalc(Calculator):
